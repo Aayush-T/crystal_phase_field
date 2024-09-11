@@ -1,0 +1,6 @@
+Applications:
+    crystal_phase_field:
+        app_types:
+            - crystal_phase_fieldApp
+        content_directory: ${ROOT_DIR}/doc/content
+        log_default: WARNING
